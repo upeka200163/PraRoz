@@ -2,7 +2,7 @@
 
 A simple website built with *HTML, CSS, and JavaScript*.
 
-Features
+Features<br>
 ✅ Responsive design<br> 
 ✅ Course enrollment forms<br>
 ✅ Real -time Clock<br>
