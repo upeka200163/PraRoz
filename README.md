@@ -1,2 +1,2 @@
 # PraRoz
-Web design Course
+Web design  & Development Course
